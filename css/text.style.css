@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.barlow {
+    font-family: "Barlow Semi Condensed", sans-serif;
+}
+.f-weight-bolder{
+    font-weight: 700;
+}
+.f-weight-bold{
+    font-weight: 600;
+}
+.f-weight-semibold{
+    font-weight: 500;
+}
+.dark-text{
+    color: var(--dark-text);
+}
+.text-lead{
+    color: var(--header-outline);
+}
+.letters-space-4{
+    letter-spacing: 4px;
+}
